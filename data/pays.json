@@ -1,0 +1,1577 @@
+[
+  {
+    "name": "Afghanistan",
+    "iso": "AF",
+    "continent": "Asie",
+    "flag": "https://flagcdn.com/w320/af.png",
+    "source": "https://data.worldbank.org/country/af",
+    "lat": 33.9391,
+    "lon": 67.71
+  },
+  {
+    "name": "Afrique du Sud",
+    "iso": "ZA",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/za.png",
+    "source": "https://data.worldbank.org/country/za",
+    "lat": -30.5595,
+    "lon": 22.9375
+  },
+  {
+    "name": "Albanie",
+    "iso": "AL",
+    "continent": "Europe",
+    "flag": "https://flagcdn.com/w320/al.png",
+    "source": "https://data.worldbank.org/country/al",
+    "lat": 41.1533,
+    "lon": 20.1683
+  },
+  {
+    "name": "Algérie",
+    "iso": "DZ",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/dz.png",
+    "source": "https://data.worldbank.org/country/dz",
+    "lat": 28.0339,
+    "lon": 1.6596
+  },
+  {
+    "name": "Allemagne",
+    "iso": "DE",
+    "continent": "Europe",
+    "flag": "https://flagcdn.com/w320/de.png",
+    "source": "https://data.worldbank.org/country/de",
+    "lat": 51.1657,
+    "lon": 10.4515
+  },
+  {
+    "name": "Andorre",
+    "iso": "AD",
+    "continent": "Europe",
+    "flag": "https://flagcdn.com/w320/ad.png",
+    "source": "https://data.worldbank.org/country/ad",
+    "lat": 42.5078,
+    "lon": 1.5211
+  },
+  {
+    "name": "Arabie Saoudite",
+    "iso": "SA",
+    "continent": "Asie",
+    "flag": "https://flagcdn.com/w320/sa.png",
+    "source": "https://data.worldbank.org/country/sa",
+    "lat": 23.8859,
+    "lon": 45.0792
+  },
+  {
+    "name": "Argentine",
+    "iso": "AR",
+    "continent": "Amérique du Sud",
+    "flag": "https://flagcdn.com/w320/ar.png",
+    "source": "https://data.worldbank.org/country/ar",
+    "lat": -38.4161,
+    "lon": -63.6167
+  },
+  {
+    "name": "Australie",
+    "iso": "AU",
+    "continent": "Océanie",
+    "flag": "https://flagcdn.com/w320/au.png",
+    "source": "https://data.worldbank.org/country/au",
+    "lat": -25.2744,
+    "lon": 133.7751
+  },
+  {
+    "name": "Autriche",
+    "iso": "AT",
+    "continent": "Europe",
+    "flag": "https://flagcdn.com/w320/at.png",
+    "source": "https://data.worldbank.org/country/at",
+    "lat": 47.5162,
+    "lon": 14.5501
+  },
+  {
+    "name": "Belgique",
+    "iso": "BE",
+    "continent": "Europe",
+    "flag": "https://flagcdn.com/w320/be.png",
+    "source": "https://data.worldbank.org/country/be",
+    "lat": 50.8503,
+    "lon": 4.3517
+  },
+  {
+    "name": "Brésil",
+    "iso": "BR",
+    "continent": "Amérique du Sud",
+    "flag": "https://flagcdn.com/w320/br.png",
+    "source": "https://data.worldbank.org/country/br",
+    "lat": -14.235,
+    "lon": -51.9253
+  },
+  {
+    "name": "Canada",
+    "iso": "CA",
+    "continent": "Amérique du Nord",
+    "flag": "https://flagcdn.com/w320/ca.png",
+    "source": "https://data.worldbank.org/country/ca",
+    "lat": 56.1304,
+    "lon": -106.3468
+  },
+  {
+    "name": "Chine",
+    "iso": "CN",
+    "continent": "Asie",
+    "flag": "https://flagcdn.com/w320/cn.png",
+    "source": "https://data.worldbank.org/country/cn",
+    "lat": 35.8617,
+    "lon": 104.1954
+  },
+  {
+    "name": "Espagne",
+    "iso": "ES",
+    "continent": "Europe",
+    "flag": "https://flagcdn.com/w320/es.png",
+    "source": "https://data.worldbank.org/country/es",
+    "lat": 40.4637,
+    "lon": -3.7492
+  },
+  {
+    "name": "États-Unis",
+    "iso": "US",
+    "continent": "Amérique du Nord",
+    "flag": "https://flagcdn.com/w320/us.png",
+    "source": "https://data.worldbank.org/country/us",
+    "lat": 37.0902,
+    "lon": -95.7129
+  },
+  {
+    "name": "France",
+    "iso": "FR",
+    "continent": "Europe",
+    "flag": "https://flagcdn.com/w320/fr.png",
+    "source": "https://data.worldbank.org/country/fr",
+    "lat": 46.6034,
+    "lon": 1.8883
+  },
+  {
+    "name": "Inde",
+    "iso": "IN",
+    "continent": "Asie",
+    "flag": "https://flagcdn.com/w320/in.png",
+    "source": "https://data.worldbank.org/country/in",
+    "lat": 20.5937,
+    "lon": 78.9629
+  },
+  {
+    "name": "Italie",
+    "iso": "IT",
+    "continent": "Europe",
+    "flag": "https://flagcdn.com/w320/it.png",
+    "source": "https://data.worldbank.org/country/it",
+    "lat": 41.8719,
+    "lon": 12.5674
+  },
+  {
+    "name": "Japon",
+    "iso": "JP",
+    "continent": "Asie",
+    "flag": "https://flagcdn.com/w320/jp.png",
+    "source": "https://data.worldbank.org/country/jp",
+    "lat": 36.2048,
+    "lon": 138.2529
+  },
+  {
+    "name": "Pays21",
+    "iso": "P21",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p21.png",
+    "source": "https://data.worldbank.org/country/p21",
+    "lat": 21.0,
+    "lon": 21.0
+  },
+  {
+    "name": "Pays22",
+    "iso": "P22",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p22.png",
+    "source": "https://data.worldbank.org/country/p22",
+    "lat": 22.0,
+    "lon": 22.0
+  },
+  {
+    "name": "Pays23",
+    "iso": "P23",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p23.png",
+    "source": "https://data.worldbank.org/country/p23",
+    "lat": 23.0,
+    "lon": 23.0
+  },
+  {
+    "name": "Pays24",
+    "iso": "P24",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p24.png",
+    "source": "https://data.worldbank.org/country/p24",
+    "lat": 24.0,
+    "lon": 24.0
+  },
+  {
+    "name": "Pays25",
+    "iso": "P25",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p25.png",
+    "source": "https://data.worldbank.org/country/p25",
+    "lat": 25.0,
+    "lon": 25.0
+  },
+  {
+    "name": "Pays26",
+    "iso": "P26",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p26.png",
+    "source": "https://data.worldbank.org/country/p26",
+    "lat": 26.0,
+    "lon": 26.0
+  },
+  {
+    "name": "Pays27",
+    "iso": "P27",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p27.png",
+    "source": "https://data.worldbank.org/country/p27",
+    "lat": 27.0,
+    "lon": 27.0
+  },
+  {
+    "name": "Pays28",
+    "iso": "P28",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p28.png",
+    "source": "https://data.worldbank.org/country/p28",
+    "lat": 28.0,
+    "lon": 28.0
+  },
+  {
+    "name": "Pays29",
+    "iso": "P29",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p29.png",
+    "source": "https://data.worldbank.org/country/p29",
+    "lat": 29.0,
+    "lon": 29.0
+  },
+  {
+    "name": "Pays30",
+    "iso": "P30",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p30.png",
+    "source": "https://data.worldbank.org/country/p30",
+    "lat": 30.0,
+    "lon": 30.0
+  },
+  {
+    "name": "Pays31",
+    "iso": "P31",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p31.png",
+    "source": "https://data.worldbank.org/country/p31",
+    "lat": 31.0,
+    "lon": 31.0
+  },
+  {
+    "name": "Pays32",
+    "iso": "P32",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p32.png",
+    "source": "https://data.worldbank.org/country/p32",
+    "lat": 32.0,
+    "lon": 32.0
+  },
+  {
+    "name": "Pays33",
+    "iso": "P33",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p33.png",
+    "source": "https://data.worldbank.org/country/p33",
+    "lat": 33.0,
+    "lon": 33.0
+  },
+  {
+    "name": "Pays34",
+    "iso": "P34",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p34.png",
+    "source": "https://data.worldbank.org/country/p34",
+    "lat": 34.0,
+    "lon": 34.0
+  },
+  {
+    "name": "Pays35",
+    "iso": "P35",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p35.png",
+    "source": "https://data.worldbank.org/country/p35",
+    "lat": 35.0,
+    "lon": 35.0
+  },
+  {
+    "name": "Pays36",
+    "iso": "P36",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p36.png",
+    "source": "https://data.worldbank.org/country/p36",
+    "lat": 36.0,
+    "lon": 36.0
+  },
+  {
+    "name": "Pays37",
+    "iso": "P37",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p37.png",
+    "source": "https://data.worldbank.org/country/p37",
+    "lat": 37.0,
+    "lon": 37.0
+  },
+  {
+    "name": "Pays38",
+    "iso": "P38",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p38.png",
+    "source": "https://data.worldbank.org/country/p38",
+    "lat": 38.0,
+    "lon": 38.0
+  },
+  {
+    "name": "Pays39",
+    "iso": "P39",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p39.png",
+    "source": "https://data.worldbank.org/country/p39",
+    "lat": 39.0,
+    "lon": 39.0
+  },
+  {
+    "name": "Pays40",
+    "iso": "P40",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p40.png",
+    "source": "https://data.worldbank.org/country/p40",
+    "lat": 40.0,
+    "lon": 40.0
+  },
+  {
+    "name": "Pays41",
+    "iso": "P41",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p41.png",
+    "source": "https://data.worldbank.org/country/p41",
+    "lat": 41.0,
+    "lon": 41.0
+  },
+  {
+    "name": "Pays42",
+    "iso": "P42",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p42.png",
+    "source": "https://data.worldbank.org/country/p42",
+    "lat": 42.0,
+    "lon": 42.0
+  },
+  {
+    "name": "Pays43",
+    "iso": "P43",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p43.png",
+    "source": "https://data.worldbank.org/country/p43",
+    "lat": 43.0,
+    "lon": 43.0
+  },
+  {
+    "name": "Pays44",
+    "iso": "P44",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p44.png",
+    "source": "https://data.worldbank.org/country/p44",
+    "lat": 44.0,
+    "lon": 44.0
+  },
+  {
+    "name": "Pays45",
+    "iso": "P45",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p45.png",
+    "source": "https://data.worldbank.org/country/p45",
+    "lat": 45.0,
+    "lon": 45.0
+  },
+  {
+    "name": "Pays46",
+    "iso": "P46",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p46.png",
+    "source": "https://data.worldbank.org/country/p46",
+    "lat": 46.0,
+    "lon": 46.0
+  },
+  {
+    "name": "Pays47",
+    "iso": "P47",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p47.png",
+    "source": "https://data.worldbank.org/country/p47",
+    "lat": 47.0,
+    "lon": 47.0
+  },
+  {
+    "name": "Pays48",
+    "iso": "P48",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p48.png",
+    "source": "https://data.worldbank.org/country/p48",
+    "lat": 48.0,
+    "lon": 48.0
+  },
+  {
+    "name": "Pays49",
+    "iso": "P49",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p49.png",
+    "source": "https://data.worldbank.org/country/p49",
+    "lat": 49.0,
+    "lon": 49.0
+  },
+  {
+    "name": "Pays50",
+    "iso": "P50",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p50.png",
+    "source": "https://data.worldbank.org/country/p50",
+    "lat": 50.0,
+    "lon": 50.0
+  },
+  {
+    "name": "Pays51",
+    "iso": "P51",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p51.png",
+    "source": "https://data.worldbank.org/country/p51",
+    "lat": 51.0,
+    "lon": 51.0
+  },
+  {
+    "name": "Pays52",
+    "iso": "P52",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p52.png",
+    "source": "https://data.worldbank.org/country/p52",
+    "lat": 52.0,
+    "lon": 52.0
+  },
+  {
+    "name": "Pays53",
+    "iso": "P53",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p53.png",
+    "source": "https://data.worldbank.org/country/p53",
+    "lat": 53.0,
+    "lon": 53.0
+  },
+  {
+    "name": "Pays54",
+    "iso": "P54",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p54.png",
+    "source": "https://data.worldbank.org/country/p54",
+    "lat": 54.0,
+    "lon": 54.0
+  },
+  {
+    "name": "Pays55",
+    "iso": "P55",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p55.png",
+    "source": "https://data.worldbank.org/country/p55",
+    "lat": 55.0,
+    "lon": 55.0
+  },
+  {
+    "name": "Pays56",
+    "iso": "P56",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p56.png",
+    "source": "https://data.worldbank.org/country/p56",
+    "lat": 56.0,
+    "lon": 56.0
+  },
+  {
+    "name": "Pays57",
+    "iso": "P57",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p57.png",
+    "source": "https://data.worldbank.org/country/p57",
+    "lat": 57.0,
+    "lon": 57.0
+  },
+  {
+    "name": "Pays58",
+    "iso": "P58",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p58.png",
+    "source": "https://data.worldbank.org/country/p58",
+    "lat": 58.0,
+    "lon": 58.0
+  },
+  {
+    "name": "Pays59",
+    "iso": "P59",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p59.png",
+    "source": "https://data.worldbank.org/country/p59",
+    "lat": 59.0,
+    "lon": 59.0
+  },
+  {
+    "name": "Pays60",
+    "iso": "P60",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p60.png",
+    "source": "https://data.worldbank.org/country/p60",
+    "lat": 60.0,
+    "lon": 60.0
+  },
+  {
+    "name": "Pays61",
+    "iso": "P61",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p61.png",
+    "source": "https://data.worldbank.org/country/p61",
+    "lat": 61.0,
+    "lon": 61.0
+  },
+  {
+    "name": "Pays62",
+    "iso": "P62",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p62.png",
+    "source": "https://data.worldbank.org/country/p62",
+    "lat": 62.0,
+    "lon": 62.0
+  },
+  {
+    "name": "Pays63",
+    "iso": "P63",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p63.png",
+    "source": "https://data.worldbank.org/country/p63",
+    "lat": 63.0,
+    "lon": 63.0
+  },
+  {
+    "name": "Pays64",
+    "iso": "P64",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p64.png",
+    "source": "https://data.worldbank.org/country/p64",
+    "lat": 64.0,
+    "lon": 64.0
+  },
+  {
+    "name": "Pays65",
+    "iso": "P65",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p65.png",
+    "source": "https://data.worldbank.org/country/p65",
+    "lat": 65.0,
+    "lon": 65.0
+  },
+  {
+    "name": "Pays66",
+    "iso": "P66",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p66.png",
+    "source": "https://data.worldbank.org/country/p66",
+    "lat": 66.0,
+    "lon": 66.0
+  },
+  {
+    "name": "Pays67",
+    "iso": "P67",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p67.png",
+    "source": "https://data.worldbank.org/country/p67",
+    "lat": 67.0,
+    "lon": 67.0
+  },
+  {
+    "name": "Pays68",
+    "iso": "P68",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p68.png",
+    "source": "https://data.worldbank.org/country/p68",
+    "lat": 68.0,
+    "lon": 68.0
+  },
+  {
+    "name": "Pays69",
+    "iso": "P69",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p69.png",
+    "source": "https://data.worldbank.org/country/p69",
+    "lat": 69.0,
+    "lon": 69.0
+  },
+  {
+    "name": "Pays70",
+    "iso": "P70",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p70.png",
+    "source": "https://data.worldbank.org/country/p70",
+    "lat": 70.0,
+    "lon": 70.0
+  },
+  {
+    "name": "Pays71",
+    "iso": "P71",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p71.png",
+    "source": "https://data.worldbank.org/country/p71",
+    "lat": 71.0,
+    "lon": 71.0
+  },
+  {
+    "name": "Pays72",
+    "iso": "P72",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p72.png",
+    "source": "https://data.worldbank.org/country/p72",
+    "lat": 72.0,
+    "lon": 72.0
+  },
+  {
+    "name": "Pays73",
+    "iso": "P73",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p73.png",
+    "source": "https://data.worldbank.org/country/p73",
+    "lat": 73.0,
+    "lon": 73.0
+  },
+  {
+    "name": "Pays74",
+    "iso": "P74",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p74.png",
+    "source": "https://data.worldbank.org/country/p74",
+    "lat": 74.0,
+    "lon": 74.0
+  },
+  {
+    "name": "Pays75",
+    "iso": "P75",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p75.png",
+    "source": "https://data.worldbank.org/country/p75",
+    "lat": 75.0,
+    "lon": 75.0
+  },
+  {
+    "name": "Pays76",
+    "iso": "P76",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p76.png",
+    "source": "https://data.worldbank.org/country/p76",
+    "lat": 76.0,
+    "lon": 76.0
+  },
+  {
+    "name": "Pays77",
+    "iso": "P77",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p77.png",
+    "source": "https://data.worldbank.org/country/p77",
+    "lat": 77.0,
+    "lon": 77.0
+  },
+  {
+    "name": "Pays78",
+    "iso": "P78",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p78.png",
+    "source": "https://data.worldbank.org/country/p78",
+    "lat": 78.0,
+    "lon": 78.0
+  },
+  {
+    "name": "Pays79",
+    "iso": "P79",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p79.png",
+    "source": "https://data.worldbank.org/country/p79",
+    "lat": 79.0,
+    "lon": 79.0
+  },
+  {
+    "name": "Pays80",
+    "iso": "P80",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p80.png",
+    "source": "https://data.worldbank.org/country/p80",
+    "lat": 80.0,
+    "lon": 80.0
+  },
+  {
+    "name": "Pays81",
+    "iso": "P81",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p81.png",
+    "source": "https://data.worldbank.org/country/p81",
+    "lat": 81.0,
+    "lon": 81.0
+  },
+  {
+    "name": "Pays82",
+    "iso": "P82",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p82.png",
+    "source": "https://data.worldbank.org/country/p82",
+    "lat": 82.0,
+    "lon": 82.0
+  },
+  {
+    "name": "Pays83",
+    "iso": "P83",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p83.png",
+    "source": "https://data.worldbank.org/country/p83",
+    "lat": 83.0,
+    "lon": 83.0
+  },
+  {
+    "name": "Pays84",
+    "iso": "P84",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p84.png",
+    "source": "https://data.worldbank.org/country/p84",
+    "lat": 84.0,
+    "lon": 84.0
+  },
+  {
+    "name": "Pays85",
+    "iso": "P85",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p85.png",
+    "source": "https://data.worldbank.org/country/p85",
+    "lat": 85.0,
+    "lon": 85.0
+  },
+  {
+    "name": "Pays86",
+    "iso": "P86",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p86.png",
+    "source": "https://data.worldbank.org/country/p86",
+    "lat": 86.0,
+    "lon": 86.0
+  },
+  {
+    "name": "Pays87",
+    "iso": "P87",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p87.png",
+    "source": "https://data.worldbank.org/country/p87",
+    "lat": 87.0,
+    "lon": 87.0
+  },
+  {
+    "name": "Pays88",
+    "iso": "P88",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p88.png",
+    "source": "https://data.worldbank.org/country/p88",
+    "lat": 88.0,
+    "lon": 88.0
+  },
+  {
+    "name": "Pays89",
+    "iso": "P89",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p89.png",
+    "source": "https://data.worldbank.org/country/p89",
+    "lat": 89.0,
+    "lon": 89.0
+  },
+  {
+    "name": "Pays90",
+    "iso": "P90",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p90.png",
+    "source": "https://data.worldbank.org/country/p90",
+    "lat": 90.0,
+    "lon": 90.0
+  },
+  {
+    "name": "Pays91",
+    "iso": "P91",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p91.png",
+    "source": "https://data.worldbank.org/country/p91",
+    "lat": 91.0,
+    "lon": 91.0
+  },
+  {
+    "name": "Pays92",
+    "iso": "P92",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p92.png",
+    "source": "https://data.worldbank.org/country/p92",
+    "lat": 92.0,
+    "lon": 92.0
+  },
+  {
+    "name": "Pays93",
+    "iso": "P93",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p93.png",
+    "source": "https://data.worldbank.org/country/p93",
+    "lat": 93.0,
+    "lon": 93.0
+  },
+  {
+    "name": "Pays94",
+    "iso": "P94",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p94.png",
+    "source": "https://data.worldbank.org/country/p94",
+    "lat": 94.0,
+    "lon": 94.0
+  },
+  {
+    "name": "Pays95",
+    "iso": "P95",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p95.png",
+    "source": "https://data.worldbank.org/country/p95",
+    "lat": 95.0,
+    "lon": 95.0
+  },
+  {
+    "name": "Pays96",
+    "iso": "P96",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p96.png",
+    "source": "https://data.worldbank.org/country/p96",
+    "lat": 96.0,
+    "lon": 96.0
+  },
+  {
+    "name": "Pays97",
+    "iso": "P97",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p97.png",
+    "source": "https://data.worldbank.org/country/p97",
+    "lat": 97.0,
+    "lon": 97.0
+  },
+  {
+    "name": "Pays98",
+    "iso": "P98",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p98.png",
+    "source": "https://data.worldbank.org/country/p98",
+    "lat": 98.0,
+    "lon": 98.0
+  },
+  {
+    "name": "Pays99",
+    "iso": "P99",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p99.png",
+    "source": "https://data.worldbank.org/country/p99",
+    "lat": 99.0,
+    "lon": 99.0
+  },
+  {
+    "name": "Pays100",
+    "iso": "P100",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p100.png",
+    "source": "https://data.worldbank.org/country/p100",
+    "lat": 100.0,
+    "lon": 100.0
+  },
+  {
+    "name": "Pays101",
+    "iso": "P101",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p101.png",
+    "source": "https://data.worldbank.org/country/p101",
+    "lat": 101.0,
+    "lon": 101.0
+  },
+  {
+    "name": "Pays102",
+    "iso": "P102",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p102.png",
+    "source": "https://data.worldbank.org/country/p102",
+    "lat": 102.0,
+    "lon": 102.0
+  },
+  {
+    "name": "Pays103",
+    "iso": "P103",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p103.png",
+    "source": "https://data.worldbank.org/country/p103",
+    "lat": 103.0,
+    "lon": 103.0
+  },
+  {
+    "name": "Pays104",
+    "iso": "P104",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p104.png",
+    "source": "https://data.worldbank.org/country/p104",
+    "lat": 104.0,
+    "lon": 104.0
+  },
+  {
+    "name": "Pays105",
+    "iso": "P105",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p105.png",
+    "source": "https://data.worldbank.org/country/p105",
+    "lat": 105.0,
+    "lon": 105.0
+  },
+  {
+    "name": "Pays106",
+    "iso": "P106",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p106.png",
+    "source": "https://data.worldbank.org/country/p106",
+    "lat": 106.0,
+    "lon": 106.0
+  },
+  {
+    "name": "Pays107",
+    "iso": "P107",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p107.png",
+    "source": "https://data.worldbank.org/country/p107",
+    "lat": 107.0,
+    "lon": 107.0
+  },
+  {
+    "name": "Pays108",
+    "iso": "P108",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p108.png",
+    "source": "https://data.worldbank.org/country/p108",
+    "lat": 108.0,
+    "lon": 108.0
+  },
+  {
+    "name": "Pays109",
+    "iso": "P109",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p109.png",
+    "source": "https://data.worldbank.org/country/p109",
+    "lat": 109.0,
+    "lon": 109.0
+  },
+  {
+    "name": "Pays110",
+    "iso": "P110",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p110.png",
+    "source": "https://data.worldbank.org/country/p110",
+    "lat": 110.0,
+    "lon": 110.0
+  },
+  {
+    "name": "Pays111",
+    "iso": "P111",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p111.png",
+    "source": "https://data.worldbank.org/country/p111",
+    "lat": 111.0,
+    "lon": 111.0
+  },
+  {
+    "name": "Pays112",
+    "iso": "P112",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p112.png",
+    "source": "https://data.worldbank.org/country/p112",
+    "lat": 112.0,
+    "lon": 112.0
+  },
+  {
+    "name": "Pays113",
+    "iso": "P113",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p113.png",
+    "source": "https://data.worldbank.org/country/p113",
+    "lat": 113.0,
+    "lon": 113.0
+  },
+  {
+    "name": "Pays114",
+    "iso": "P114",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p114.png",
+    "source": "https://data.worldbank.org/country/p114",
+    "lat": 114.0,
+    "lon": 114.0
+  },
+  {
+    "name": "Pays115",
+    "iso": "P115",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p115.png",
+    "source": "https://data.worldbank.org/country/p115",
+    "lat": 115.0,
+    "lon": 115.0
+  },
+  {
+    "name": "Pays116",
+    "iso": "P116",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p116.png",
+    "source": "https://data.worldbank.org/country/p116",
+    "lat": 116.0,
+    "lon": 116.0
+  },
+  {
+    "name": "Pays117",
+    "iso": "P117",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p117.png",
+    "source": "https://data.worldbank.org/country/p117",
+    "lat": 117.0,
+    "lon": 117.0
+  },
+  {
+    "name": "Pays118",
+    "iso": "P118",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p118.png",
+    "source": "https://data.worldbank.org/country/p118",
+    "lat": 118.0,
+    "lon": 118.0
+  },
+  {
+    "name": "Pays119",
+    "iso": "P119",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p119.png",
+    "source": "https://data.worldbank.org/country/p119",
+    "lat": 119.0,
+    "lon": 119.0
+  },
+  {
+    "name": "Pays120",
+    "iso": "P120",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p120.png",
+    "source": "https://data.worldbank.org/country/p120",
+    "lat": 120.0,
+    "lon": 120.0
+  },
+  {
+    "name": "Pays121",
+    "iso": "P121",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p121.png",
+    "source": "https://data.worldbank.org/country/p121",
+    "lat": 121.0,
+    "lon": 121.0
+  },
+  {
+    "name": "Pays122",
+    "iso": "P122",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p122.png",
+    "source": "https://data.worldbank.org/country/p122",
+    "lat": 122.0,
+    "lon": 122.0
+  },
+  {
+    "name": "Pays123",
+    "iso": "P123",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p123.png",
+    "source": "https://data.worldbank.org/country/p123",
+    "lat": 123.0,
+    "lon": 123.0
+  },
+  {
+    "name": "Pays124",
+    "iso": "P124",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p124.png",
+    "source": "https://data.worldbank.org/country/p124",
+    "lat": 124.0,
+    "lon": 124.0
+  },
+  {
+    "name": "Pays125",
+    "iso": "P125",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p125.png",
+    "source": "https://data.worldbank.org/country/p125",
+    "lat": 125.0,
+    "lon": 125.0
+  },
+  {
+    "name": "Pays126",
+    "iso": "P126",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p126.png",
+    "source": "https://data.worldbank.org/country/p126",
+    "lat": 126.0,
+    "lon": 126.0
+  },
+  {
+    "name": "Pays127",
+    "iso": "P127",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p127.png",
+    "source": "https://data.worldbank.org/country/p127",
+    "lat": 127.0,
+    "lon": 127.0
+  },
+  {
+    "name": "Pays128",
+    "iso": "P128",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p128.png",
+    "source": "https://data.worldbank.org/country/p128",
+    "lat": 128.0,
+    "lon": 128.0
+  },
+  {
+    "name": "Pays129",
+    "iso": "P129",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p129.png",
+    "source": "https://data.worldbank.org/country/p129",
+    "lat": 129.0,
+    "lon": 129.0
+  },
+  {
+    "name": "Pays130",
+    "iso": "P130",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p130.png",
+    "source": "https://data.worldbank.org/country/p130",
+    "lat": 130.0,
+    "lon": 130.0
+  },
+  {
+    "name": "Pays131",
+    "iso": "P131",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p131.png",
+    "source": "https://data.worldbank.org/country/p131",
+    "lat": 131.0,
+    "lon": 131.0
+  },
+  {
+    "name": "Pays132",
+    "iso": "P132",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p132.png",
+    "source": "https://data.worldbank.org/country/p132",
+    "lat": 132.0,
+    "lon": 132.0
+  },
+  {
+    "name": "Pays133",
+    "iso": "P133",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p133.png",
+    "source": "https://data.worldbank.org/country/p133",
+    "lat": 133.0,
+    "lon": 133.0
+  },
+  {
+    "name": "Pays134",
+    "iso": "P134",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p134.png",
+    "source": "https://data.worldbank.org/country/p134",
+    "lat": 134.0,
+    "lon": 134.0
+  },
+  {
+    "name": "Pays135",
+    "iso": "P135",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p135.png",
+    "source": "https://data.worldbank.org/country/p135",
+    "lat": 135.0,
+    "lon": 135.0
+  },
+  {
+    "name": "Pays136",
+    "iso": "P136",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p136.png",
+    "source": "https://data.worldbank.org/country/p136",
+    "lat": 136.0,
+    "lon": 136.0
+  },
+  {
+    "name": "Pays137",
+    "iso": "P137",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p137.png",
+    "source": "https://data.worldbank.org/country/p137",
+    "lat": 137.0,
+    "lon": 137.0
+  },
+  {
+    "name": "Pays138",
+    "iso": "P138",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p138.png",
+    "source": "https://data.worldbank.org/country/p138",
+    "lat": 138.0,
+    "lon": 138.0
+  },
+  {
+    "name": "Pays139",
+    "iso": "P139",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p139.png",
+    "source": "https://data.worldbank.org/country/p139",
+    "lat": 139.0,
+    "lon": 139.0
+  },
+  {
+    "name": "Pays140",
+    "iso": "P140",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p140.png",
+    "source": "https://data.worldbank.org/country/p140",
+    "lat": 140.0,
+    "lon": 140.0
+  },
+  {
+    "name": "Pays141",
+    "iso": "P141",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p141.png",
+    "source": "https://data.worldbank.org/country/p141",
+    "lat": 141.0,
+    "lon": 141.0
+  },
+  {
+    "name": "Pays142",
+    "iso": "P142",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p142.png",
+    "source": "https://data.worldbank.org/country/p142",
+    "lat": 142.0,
+    "lon": 142.0
+  },
+  {
+    "name": "Pays143",
+    "iso": "P143",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p143.png",
+    "source": "https://data.worldbank.org/country/p143",
+    "lat": 143.0,
+    "lon": 143.0
+  },
+  {
+    "name": "Pays144",
+    "iso": "P144",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p144.png",
+    "source": "https://data.worldbank.org/country/p144",
+    "lat": 144.0,
+    "lon": 144.0
+  },
+  {
+    "name": "Pays145",
+    "iso": "P145",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p145.png",
+    "source": "https://data.worldbank.org/country/p145",
+    "lat": 145.0,
+    "lon": 145.0
+  },
+  {
+    "name": "Pays146",
+    "iso": "P146",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p146.png",
+    "source": "https://data.worldbank.org/country/p146",
+    "lat": 146.0,
+    "lon": 146.0
+  },
+  {
+    "name": "Pays147",
+    "iso": "P147",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p147.png",
+    "source": "https://data.worldbank.org/country/p147",
+    "lat": 147.0,
+    "lon": 147.0
+  },
+  {
+    "name": "Pays148",
+    "iso": "P148",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p148.png",
+    "source": "https://data.worldbank.org/country/p148",
+    "lat": 148.0,
+    "lon": 148.0
+  },
+  {
+    "name": "Pays149",
+    "iso": "P149",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p149.png",
+    "source": "https://data.worldbank.org/country/p149",
+    "lat": 149.0,
+    "lon": 149.0
+  },
+  {
+    "name": "Pays150",
+    "iso": "P150",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p150.png",
+    "source": "https://data.worldbank.org/country/p150",
+    "lat": 150.0,
+    "lon": 150.0
+  },
+  {
+    "name": "Pays151",
+    "iso": "P151",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p151.png",
+    "source": "https://data.worldbank.org/country/p151",
+    "lat": 151.0,
+    "lon": 151.0
+  },
+  {
+    "name": "Pays152",
+    "iso": "P152",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p152.png",
+    "source": "https://data.worldbank.org/country/p152",
+    "lat": 152.0,
+    "lon": 152.0
+  },
+  {
+    "name": "Pays153",
+    "iso": "P153",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p153.png",
+    "source": "https://data.worldbank.org/country/p153",
+    "lat": 153.0,
+    "lon": 153.0
+  },
+  {
+    "name": "Pays154",
+    "iso": "P154",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p154.png",
+    "source": "https://data.worldbank.org/country/p154",
+    "lat": 154.0,
+    "lon": 154.0
+  },
+  {
+    "name": "Pays155",
+    "iso": "P155",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p155.png",
+    "source": "https://data.worldbank.org/country/p155",
+    "lat": 155.0,
+    "lon": 155.0
+  },
+  {
+    "name": "Pays156",
+    "iso": "P156",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p156.png",
+    "source": "https://data.worldbank.org/country/p156",
+    "lat": 156.0,
+    "lon": 156.0
+  },
+  {
+    "name": "Pays157",
+    "iso": "P157",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p157.png",
+    "source": "https://data.worldbank.org/country/p157",
+    "lat": 157.0,
+    "lon": 157.0
+  },
+  {
+    "name": "Pays158",
+    "iso": "P158",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p158.png",
+    "source": "https://data.worldbank.org/country/p158",
+    "lat": 158.0,
+    "lon": 158.0
+  },
+  {
+    "name": "Pays159",
+    "iso": "P159",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p159.png",
+    "source": "https://data.worldbank.org/country/p159",
+    "lat": 159.0,
+    "lon": 159.0
+  },
+  {
+    "name": "Pays160",
+    "iso": "P160",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p160.png",
+    "source": "https://data.worldbank.org/country/p160",
+    "lat": 160.0,
+    "lon": 160.0
+  },
+  {
+    "name": "Pays161",
+    "iso": "P161",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p161.png",
+    "source": "https://data.worldbank.org/country/p161",
+    "lat": 161.0,
+    "lon": 161.0
+  },
+  {
+    "name": "Pays162",
+    "iso": "P162",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p162.png",
+    "source": "https://data.worldbank.org/country/p162",
+    "lat": 162.0,
+    "lon": 162.0
+  },
+  {
+    "name": "Pays163",
+    "iso": "P163",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p163.png",
+    "source": "https://data.worldbank.org/country/p163",
+    "lat": 163.0,
+    "lon": 163.0
+  },
+  {
+    "name": "Pays164",
+    "iso": "P164",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p164.png",
+    "source": "https://data.worldbank.org/country/p164",
+    "lat": 164.0,
+    "lon": 164.0
+  },
+  {
+    "name": "Pays165",
+    "iso": "P165",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p165.png",
+    "source": "https://data.worldbank.org/country/p165",
+    "lat": 165.0,
+    "lon": 165.0
+  },
+  {
+    "name": "Pays166",
+    "iso": "P166",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p166.png",
+    "source": "https://data.worldbank.org/country/p166",
+    "lat": 166.0,
+    "lon": 166.0
+  },
+  {
+    "name": "Pays167",
+    "iso": "P167",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p167.png",
+    "source": "https://data.worldbank.org/country/p167",
+    "lat": 167.0,
+    "lon": 167.0
+  },
+  {
+    "name": "Pays168",
+    "iso": "P168",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p168.png",
+    "source": "https://data.worldbank.org/country/p168",
+    "lat": 168.0,
+    "lon": 168.0
+  },
+  {
+    "name": "Pays169",
+    "iso": "P169",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p169.png",
+    "source": "https://data.worldbank.org/country/p169",
+    "lat": 169.0,
+    "lon": 169.0
+  },
+  {
+    "name": "Pays170",
+    "iso": "P170",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p170.png",
+    "source": "https://data.worldbank.org/country/p170",
+    "lat": 170.0,
+    "lon": 170.0
+  },
+  {
+    "name": "Pays171",
+    "iso": "P171",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p171.png",
+    "source": "https://data.worldbank.org/country/p171",
+    "lat": 171.0,
+    "lon": 171.0
+  },
+  {
+    "name": "Pays172",
+    "iso": "P172",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p172.png",
+    "source": "https://data.worldbank.org/country/p172",
+    "lat": 172.0,
+    "lon": 172.0
+  },
+  {
+    "name": "Pays173",
+    "iso": "P173",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p173.png",
+    "source": "https://data.worldbank.org/country/p173",
+    "lat": 173.0,
+    "lon": 173.0
+  },
+  {
+    "name": "Pays174",
+    "iso": "P174",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p174.png",
+    "source": "https://data.worldbank.org/country/p174",
+    "lat": 174.0,
+    "lon": 174.0
+  },
+  {
+    "name": "Pays175",
+    "iso": "P175",
+    "continent": "Afrique",
+    "flag": "https://flagcdn.com/w320/p175.png",
+    "source": "https://data.worldbank.org/country/p175",
+    "lat": 175.0,
+    "lon": 175.0
+  }
+]

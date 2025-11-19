@@ -1,48 +1,35 @@
-# Démonstrateur Streamlit (style "L'Exportateur")
+# Démonstrateur Streamlit — Fiches Pays avec Carte Interactive
 
-> ⚠️ **Important** : Ce projet n'est **pas** une copie du site [lexportateur.com](https://www.lexportateur.com/) et n'en reprend aucun contenu. Il fournit un **squelette** de fonctionnalités et d'organisation pour construire un site d'actualités/professionnel similaire sur vos **propres textes, images et données**.
+Ce projet inclut :
+- Liste des pays avec drapeaux et coordonnées géographiques
+- Recherche, filtres par continent
+- Carte interactive (pydeck)
 
-## Structure du projet
-
+## Structure
 ```
-lexportateur_like_streamlit/
+lexportateur_like_streamlit_v4/
 ├── app.py
 ├── pages/
 │   ├── 1_Actualités.py
 │   ├── 2_Guides.py
 │   ├── 3_Outils.py
-│   └── 4_Contact.py
+│   ├── 4_Contact.py
+│   └── 5_Pays.py
 ├── data/
-│   ├── articles.json        # (optionnel) vos articles au format JSON
-│   └── guides.md            # (optionnel) vos guides en Markdown
+│   └── pays.json
 ├── assets/
-│   └── logo.png             # (optionnel) votre logo
+│   └── styles.css
+├── lib/
+│   └── ui.py
 ├── .streamlit/
-│   └── config.toml          # thème et mise en page
+│   └── config.toml
 ├── requirements.txt
 └── README.md
 ```
 
 ## Lancer en local
-
 ```bash
-python -m venv .venv && source .venv/bin/activate  # Windows: .venv\Scripts\activate
+python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-## Déployer
-
-1. Créez un dépôt GitHub et poussez ce dossier.
-2. Ouvrez [Streamlit Community Cloud](https://share.streamlit.io/) et connectez votre dépôt.
-3. Choisissez `app.py` comme entrée et validez.
-
-## Ajouter vos contenus
-
-- Placez vos articles dans `data/articles.json` (voir format dans le code).
-- Écrivez vos guides dans `data/guides.md`.
-- Ajoutez `assets/logo.png`.
-
-## Respect du droit d'auteur
-
-N'intégrez aucun texte, image ou structure protégée provenant de sites tiers sans autorisation. Vérifiez les **Conditions d'utilisation**, le **robots.txt**, ou obtenez un **accord écrit**.
