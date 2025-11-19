@@ -1,35 +1,22 @@
-# Démonstrateur Streamlit — Fiches Pays avec Carte Interactive
+# Démonstrateur Streamlit — Fiches Pays (v5)
 
-Ce projet inclut :
-- Liste des pays avec drapeaux et coordonnées géographiques
-- Recherche, filtres par continent
-- Carte interactive (pydeck)
+Cette version inclut :
+- 175 entrées pays (avec indicateurs publics **simulés** pour démonstration),
+- Drapeaux via flagcdn.com, coordonnées (lat/lon),
+- Carte interactive (pydeck),
+- Export PDF des fiches (ReportLab),
+- Recherche + filtres par continent.
 
-## Structure
-```
-lexportateur_like_streamlit_v4/
-├── app.py
-├── pages/
-│   ├── 1_Actualités.py
-│   ├── 2_Guides.py
-│   ├── 3_Outils.py
-│   ├── 4_Contact.py
-│   └── 5_Pays.py
-├── data/
-│   └── pays.json
-├── assets/
-│   └── styles.css
-├── lib/
-│   └── ui.py
-├── .streamlit/
-│   └── config.toml
-├── requirements.txt
-└── README.md
-```
+> Remplacez les *placeholders* par des données réelles issues de sources publiques (Banque mondiale, FMI, OMC) si nécessaire.
 
-## Lancer en local
+## Lancement local
 ```bash
-python -m venv .venv && source .venv/bin/activate
+python -m venv .venv && source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+## Déploiement Streamlit Cloud
+1) Poussez ce dossier sur GitHub  
+2) Créez une app sur https://share.streamlit.io  
+3) Fichier principal: `app.py`
